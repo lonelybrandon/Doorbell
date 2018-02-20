@@ -12,7 +12,7 @@ Context and progress go here
 
 The idea behind first implementation. What is expected, what should be included, what should not be included.
 
-<h2>Top 5 key learnings</h2>
+<h2>Key learnings</h2>
 
 - Be 
 - clear
