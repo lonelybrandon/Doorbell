@@ -8,7 +8,7 @@
 <h2>About</h2>
 Context and progress go here
 
-<h2>Goal</h2>
+<h2>Goal and requirements</h2>
 
 The idea behind first implementation. What is expected, what should be included, what should not be included.
 
