@@ -33,6 +33,9 @@ Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun
 <h2>Contributing</h2>
 Mention pull requests. Link to an example and/or put it down here
 
+<h2>Project status</h2>
+Insert here
+
 <h2>Credits</h2>
 
 - Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
