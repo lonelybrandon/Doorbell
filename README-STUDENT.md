@@ -1,10 +1,9 @@
-
-<div align="center">Logo</div>
+<div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Name</h1>
 <p align="center"><strong>Description</strong>
-<br>Comment (with emojis)</p>
+<br>Comment</p>
 <br/>
-<div align="center">Demo gif</div>
+<div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
 Context and progress go here
 
