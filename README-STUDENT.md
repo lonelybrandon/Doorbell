@@ -1,9 +1,8 @@
-<div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
+<div align="center">(optional) Project photo</div>
 <h1 align="center">Name</h1>
-<p align="center"><strong>Description</strong>
-<br>Comment</p>
+<p align="center"><strong>One-line description</strong>
 <br/>
-<div align="center"><img src="demo.gif"></img></div>
+
 <h2>About</h2>
 <strong>FILL THIS IN</strong>
 Answer these questions: What is your project? Why'd you build it?
