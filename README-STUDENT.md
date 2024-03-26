@@ -4,7 +4,7 @@
 <br/>
 
 <h2>About</h2>
-<strong>FILL THIS IN</strong>
+<strong>FILL THIS IN</strong><br/>
 Answer these questions: What is your project? Why'd you build it?
 
 <h2>Goal and requirements</h2>
