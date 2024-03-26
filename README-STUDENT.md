@@ -1,5 +1,5 @@
 <div align="center">(optional) Project photo</div>
-<h1 align="center">Name</h1>
+<h1 align="center">Project Name</h1>
 <p align="center"><strong>One-line description</strong>
 <br/>
 
