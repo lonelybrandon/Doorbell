@@ -10,7 +10,9 @@ Answer these questions: What is your project? Why'd you build it?
 <h2>Goal and requirements</h2>
 <strong>FILL THIS IN</strong><br/>
  Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
-
+ 
+ <h3>Sprint Goal</h3>
+<strong>FILL THIS IN</strong><br/>
 
 <h2>Key learnings</h2>
 <strong>FILL THIS IN</strong><br/>
