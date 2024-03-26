@@ -14,7 +14,7 @@ Answer these questions: What is your project? Why'd you build it?
 
 <h2>Key learnings</h2>
 <strong>FILL THIS IN</strong><br/>
-So... what did you learn? (start this, but ** come back to it at the end of the sprint**)
+So... what did you learn? (start this, but **come back to it at the end of the sprint**)
 
 <h2>Running your project</h2>
 <strong>FILL THIS IN</strong><br/>
