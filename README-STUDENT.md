@@ -9,8 +9,7 @@
 Answer these questions: What is your project? Why'd you build it?
 
 <h2>Goal and requirements</h2>
-**FILL THIS IN**
-Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
+**FILL THIS IN** Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
 
 
 <h2>Key learnings</h2>
