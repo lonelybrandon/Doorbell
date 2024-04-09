@@ -39,6 +39,7 @@ void loop() {
         buttonPressed = -1; 
         break;
     }   
+    addDigit(buttonPressed);
     IrReceiver.resume();
   }
   digitalWrite(TRIGGER_PIN, HIGH);
