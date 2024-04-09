@@ -18,7 +18,6 @@ My project is a security system, where using simple arduino and sensor to basica
 <h2>Key learnings</h2>
 <strong>I learned about arduino in general, and also realized how frustrating hardware is with software. I also have been quite lazy with it, but will continue and try to finish. The wiring is really tough as well, 
 having to connect everything into one arduino. UPDATE: I was able to successfully connect everything, also being able to connect everything to the arduino. I also learned about the different ways an arduino can connect to the software and code with also being able to make so many things work, as well as learning a new language in C++, even if its just the arduino hardware parts to it.</strong><br/>
-So... what did you learn? (start this, but **come back to it at the end of the sprint**)
 
 <h2>Running your project</h2>
 <strong>To run this project, you need to open up the main code of the arduino, plug in the usb into port 3 of the laptop, and press upload.</strong><br/>
