@@ -6,7 +6,7 @@
 <h2>About</h2>
 <strong>FILL THIS IN</strong><br/>
 Answer these questions: What is your project? Why'd you build it?l
-My project is a security system, where using simple arduino and sensor to basically check if people are coming towards the door, and using a controller to let them in.
+My project is a security system, where using simple arduino and sensor to basically check if people are coming towards the door, and using a controller to let them in. I originally built it because one of my robotics mentors in electrionics continued to give me ideas on what I can do for my project, where he introduced me to the arduino. From then on, I continued to research on different ways it can be used, eventually getting to the ultrasonic sensor and the new ring system my mom bought recently.
 
 <h2>Goal and requirements</h2>
 <strong>My Goal is to be able to achieve this security system, not as good as an actual one since it is very simplified, but to just make it work and presentable.</strong><br/>
